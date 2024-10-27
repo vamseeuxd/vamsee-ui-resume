@@ -1,0 +1,157 @@
+{
+    "name": "Vamsee Kalyan",
+    "title": "Web Developer (Angular & React)",
+    "experience": "15+ Years",
+    "objective": "My goal is to bring experience, maturity, focus, knowledge, and a healthy amount of hubris to my job in order to tackle both technological and personal challenges. I am passionate about doing things right and doing them quickly. These are not antithetical; a proper knowledge of principles, action in the face of ambiguity, and diplomacy to coax the best from all can nurture a self-organized software team. Above all I want to invest in people I believe in and promote a company that I know represents my values.",
+    "contact": {
+      "email": "vamsi.flex@gmail.com",
+      "phone": "+91-9962266742",
+      "address": "6-46/2, 404, Dwarkamai Apartments, Krishnarayapuram, Visakhapatnam, AP, India"
+    },
+    "skills": {
+      "primary": [
+        {"name": "HTML", "rating": 95},
+        {"name": "CSS", "rating": 90},
+        {"name": "JavaScript", "rating": 95},
+        {"name": "TypeScript", "rating": 90},
+        {"name": "PWA", "rating": 85}
+      ],
+      "secondary": [
+        {"name": "Angular", "rating": 95},
+        {"name": "React", "rating": 90},
+        {"name": "Bootstrap", "rating": 85},
+        {"name": "Material Design", "rating": 80},
+        {"name": "IONIC", "rating": 80},
+        {"name": "Node.js", "rating": 85},
+        {"name": "Core-Java", "rating": 70},
+        {"name": ".Net", "rating": 70},
+        {"name": "Firebase", "rating": 80},
+        {"name": "Oracle", "rating": 75},
+        {"name": "MongoDB", "rating": 80},
+        {"name": "MySQL", "rating": 75},
+        {"name": "High-Charts", "rating": 85},
+        {"name": "AWS EC2", "rating": 80},
+        {"name": "AWS S3 Bucket", "rating": 80}
+      ],
+      "tools": {
+        "ide": [
+          {"name": "Adobe Brackets", "rating": 75},
+          {"name": "Sublime Text", "rating": 85},
+          {"name": "Eclipse", "rating": 80},
+          {"name": "VS-Code", "rating": 95},
+          {"name": "Webstorm", "rating": 85}
+        ],
+        "versionControl": [
+          {"name": "GitHub", "rating": 90},
+          {"name": "Clear Case", "rating": 75},
+          {"name": "Source-Tree", "rating": 80}
+        ],
+        "other": [
+          {"name": "AG-Grid", "rating": 85},
+          {"name": "Story-Book", "rating": 80}
+        ]
+      }
+    },
+    "workExperience": [
+      {
+        "position": "Freelancer UI UX",
+        "startDate": "January 2023",
+        "endDate": "Present",
+        "responsibilities": [
+          "Develop front-end and back-end applications, ensuring robust architecture and efficient code.",
+          "Collaborate with clients to gather requirements and deliver tailored solutions, leveraging agile methodologies.",
+          "Design and implement dynamic UI/UX components using modern frameworks, ensuring seamless user experiences.",
+          "Provide end-to-end development and technical support for web-based applications, from conceptualization to deployment."
+        ],
+        "projects": [
+          {
+            "client": "BYNDER",
+            "project": "Digital Asset Management Platform",
+            "description": "A full-featured Digital Asset Management (DAM) system designed to store, organize, and retrieve digital media files like videos, images, documents, and graphics.",
+            "technologies": ["Angular", "Node.js", "Express.js", "MongoDB"],
+            "keyContributions": ["Developing dynamic asset organization components", "Implementing secure access protocols", "Optimizing search and retrieval logic for handling large media repositories"]
+          },
+          {
+            "client": "Softweb Solutions Inc",
+            "project": "Smart Inventory & Analytics Dashboard",
+            "description": "A comprehensive Smart Inventory Management solution aimed at automating stock control and providing real-time analytics on inventory levels and sales patterns.",
+            "technologies": ["Angular", "NgRx", "Node.js", "Express.js", "PostgreSQL", "WebSocket"],
+            "keyContributions": ["Architecting the UI", "Developing reusable components", "Implementing RESTful services", "Integrating real-time WebSocket updates"]
+          }
+        ]
+      },
+      {
+        "position": "Lead UI UX Developer",
+        "company": "DTCC (Depository Trust & Clearing Corporation)",
+        "startDate": "March 2016",
+        "endDate": "January 2023",
+        "responsibilities": [
+          "Coordinates the technical design of large business systems; integration of business services & information security.",
+          "Implements technology-specific best practices & standards.",
+          "Controls success criteria from design through deployment, including reliability, cost-effectiveness, performance, data integrity, maintainability, reuse, extensibility, usability, and scalability.",
+          "Provides leadership on AD teams and assists the Domain Architect as a technology liaison across teams.",
+          "Acts as a partner with multi-functional teams to ensure the success of product strategy and project deliverables."
+        ],
+        "projects": [
+          {
+            "project": "UIF (User Interface Framework)",
+            "description": "HTML, CSS, and Angular framework for developing a responsive and mobile-friendly website.",
+            "achievements": ["Developed 32 UI-Component using Angular 13, Bootstrap, AG-Grid, and Storybook"]
+          },
+          {
+            "project": "UI-Studio",
+            "description": "A proprietary web design and development application offering a large number of components for building responsive pages with Drag and Drop.",
+            "achievements": ["Useful for designers to design quickly", "Developers can export Angular or React code from designs"]
+          },
+          {
+            "project": "CTM (Central Trade Manager)",
+            "description": "Automates the trade confirmation process across multiple asset classes such as equities, fixed income, and repos."
+          },
+          {
+            "project": "DATA SERVICES",
+            "description": "Offers referential and activity-based data, delivered in fixed or configurable formats, sourced from DTCC’s transaction, reference, position, and asset servicing data covering all major asset classes."
+          },
+          {
+            "project": "INSURANCE INFORMATION EXCHANGE (IIEX)",
+            "description": "Transforms raw data into actionable insights using an API-enabled environment to consume insurance information."
+          }
+        ]
+      },
+      {
+        "position": "UI Developer",
+        "company": "HCL Technologies",
+        "startDate": "January 2013",
+        "endDate": "March 2016",
+        "responsibilities": [
+          "Develop and deliver codes for the work assigned in accordance with time, quality, and cost standards.",
+          "Interact with customer and internal teams to gather requirements for development purposes.",
+          "Perform activities related to enhancement and creation of documents for CMM and client requirements.",
+          "Provide technical guidance to junior developers."
+        ],
+        "projects": [
+          {
+            "client": "Caterpillar",
+            "project": "Product-Link-Web",
+            "description": "A remote monitoring solution that enables efficient and effective fleet management.",
+            "details": ["Transmits information via cell and satellite.", "Corresponding web-based application Vision Link® enables customized condition and utilization reports, enhanced mapping, and mixed-fleet capabilities."]
+          },
+          {
+            "client": "Caterpillar",
+            "project": "Dealer Service Portal",
+            "description": "Offers a wide selection of general purpose tools, shop equipment, and specialty tools. Provides subscription-based updates."
+          },
+          {
+            "client": "Danfoss",
+            "project": "VLT-Insight",
+            "description": "An iPad and Windows-based engineering tool for simpler configuring, parameterization, and programming of VLT® Automation Drive series."
+          },
+          {
+            "client": "TYCO Internationals",
+            "project": "TYCO Retails Solutions",
+            "description": "Protects profits by reducing shoplifting, theft, and vendor fraud while maintaining inventory accuracy."
+          }
+        ]
+      }
+    ]
+  }
+  
